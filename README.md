@@ -1,6 +1,7 @@
 # Cyclic Substring Maximum Sum
-<br>
+
 Using HashSet + Two Pointers
-# Array-Transformation-Cost-Minimization
-<br>
-Using Sorting + Median Concept + Modulo logic
+
+# Array Transformation Cost Minimization
+
+Using Sorting + Median Concept + Modulo Logic
